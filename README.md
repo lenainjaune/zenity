@@ -18,7 +18,7 @@ commande=$( zenity \
 "Titre_2 \
 qui peut être réparti sur plusieurs lignes" \
 "commande_2 \
-qui peut être répartie en plusieurs lignes \
+qui peut être répartie en plusieurs lignes" \
 \
 )
 # Nota : pour éviter des lignes à rallonge on peut les scinder avec un
